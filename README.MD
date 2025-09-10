@@ -54,6 +54,7 @@ Je précise également que le code public est ancien et n'est pas représentatif
 
 Mon profil GitHub est utilisé comme un véritable **outil de versionning professionnel**, et non comme un simple espace de stockage ou "FTP".
 
+> [!WARNING]  
 > Les projets les plus avancés et complexes sont volontairement privés afin de protéger la propriété intellectuelle et éviter toute appropriation commerciale non autorisée.
 
 Je reste cependant **entièrement disponible pour un entretien technique** durant lequel je pourrai présenter et démontrer mes réalisations privées, afin de témoigner concrètement de mes compétences et de la qualité de mon travail.
