@@ -57,30 +57,7 @@ const me = new Developer(
 me.details();
 ```
 
-<table>
-<tr>
-<td width="45%">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/648690939719843852?showDisplayName=true)](https://discord.com/users/648690939719843852)
-
-</td>
-<td width="45%">
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="16" /> **RoxasYTB**
-
-Développeur depuis 13 ans, c'est jamais une corvée.<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" /> TypeScript, Rust & C++ enthusiast<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="18" /> Étudiant à SUPINFO<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="18" /> Open Source contributor<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" /> Stéganographie & outils système<br>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
