@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Yohan%20SANNIER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%C3%89tudiant%20SUPINFO%20%7C%20D%C3%A9veloppeur%20depuis%2013%20ans%20%7C%20Passionn%C3%A9&descSize=18&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&desc=%C3%89tudiant%20SUPINFO%20%7C%20D%C3%A9veloppeur%20depuis%2013%20ans%20%7C%20Passionn%C3%A9&descSize=18&descAlignY=52" />
 
 <br/>
 
@@ -68,7 +68,7 @@ me.details();
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="16" /> **Yohan SANNIER** · _RoxasYTB_
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="16" /> **RoxasYTB**
 
 Développeur depuis 13 ans, c'est jamais une corvée.<br>
 
@@ -177,24 +177,6 @@ Développeur depuis 13 ans, c'est jamais une corvée.<br>
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="16" /> &nbsp;Contribution PacMan
-</h2>
-
-<div align="center">
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoxasYTB/RoxasYTB/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoxasYTB/RoxasYTB/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RoxasYTB/RoxasYTB/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
-
-<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16" /> &nbsp;My Projects
 </h2>
 
@@ -205,18 +187,6 @@ Développeur depuis 13 ans, c'est jamais une corvée.<br>
 <div align="center">
 
 [![Pyxelze](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=Pyxelze&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/Pyxelze) [![roxify](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=roxify&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/roxify) [![Orionix](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=Orionix&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/Orionix) [![ZipRangeDownloader](https://github-readme-stats-fast.vercel.app/api/pin/?username=Apertures-Sciences&repo=ZipRangeDownloader&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/Apertures-Sciences/ZipRangeDownloader)
-
-</div>
-
-<br/>
-
-<div align="center">
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="18" /> &nbsp;All Public Repos</h3>
-</div>
-
-<div align="center">
-
-[![gp2](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=gp2&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/gp2) [![FoodExpress](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=FoodExpress&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/FoodExpress) [![Luigi](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=Luigi&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/Luigi) [![Toad](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=Toad&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/Toad) [![ysa-laravel-app](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=ysa-laravel-app&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/ysa-laravel-app) [![Mario](https://github-readme-stats-fast.vercel.app/api/pin/?username=RoxasYTB&repo=Mario&theme=dark&hide_border=true&icon_color=F5A623)](https://github.com/RoxasYTB/Mario)
 
 </div>
 
@@ -243,14 +213,6 @@ Je précise également que le code public est ancien et n'est pas représentatif
 <br/>
 
 <div align="center">
-
-<img src="https://counter.seku.su/cmoe?name=RoxasYTB&theme=r34" alt="Visitors" />
-
-<br/><br/>
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
-
-<br/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="12" /> Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
